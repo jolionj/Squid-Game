@@ -1218,4 +1218,6 @@ int main(){ // calls above functions
 
     show_final();
 
+    system("pause");
+
 }
